@@ -1,12 +1,28 @@
 # console.log('Hello World!! 👋')
 
-My name is Alejandro Vera Valdés
 =================================
 
-Web Developer
+My name is Alejandro Vera Valdés
+
+
+[![Twitter: A_VerVal ](https://img.shields.io/twitter/follow/A_verVal?style=social)](https://twitter.com/A_VerVal)
+<hr>
+
+Web Developer in progress
 -------------
 
-I am finishing my studies to be a full-stack web developer. Always with the mindset that I will never know everything, and I will always be constantly learning and growing 🧠. I am coding my projects using React for frontend applications. For the backend, I use Node.js.
+```javascript
+const avvGit = {
+  name: "Alejandro" | "Avvgit",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  hobbies: [Blockchain, DeFi, Cryptocurrencies, NFTs];
+  
+}
+```
+
+I am finishing my studies to be a full-stack web developer. Always with the mindset that I will never know everything, and I will always be constantly learning and growing 🧠. I am coding my projects using React for frontend applications. For the backend, I use Node.js. 
+<br>L⚛️ve React.
 
 * 🌍  I live in Chile 🇨🇱
 * ✉️  You can contact me at (alejandro.vera@ugm.cl)
