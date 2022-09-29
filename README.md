@@ -8,17 +8,16 @@ My name is Alejandro Vera Valdés
 [![Twitter: A_VerVal ](https://img.shields.io/twitter/follow/A_verVal?style=social)](https://twitter.com/A_VerVal)
 <hr>
 
-Web Developer in progress
+Web Developer in progress ...
 -------------
 
 ```javascript
-const avvGit = {
+const avv = {
   name: "Alejandro" | "Avvgit",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker],
-  hobbies: [Blockchain, DeFi, Cryptocurrencies, NFTs];
-  
-}
+  hobbies: [Blockchain, DeFi, Cryptocurrencies, NFTs]
+};
 ```
 
 I am finishing my studies to be a full-stack web developer. Always with the mindset that I will never know everything, and I will always be constantly learning and growing 🧠. I am coding my projects using React for frontend applications. For the backend, I use Node.js. 
