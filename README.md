@@ -8,7 +8,7 @@ My name is Alejandro Vera Valdés
 [![Twitter: A_VerVal ](https://img.shields.io/twitter/follow/A_verVal?style=social)](https://twitter.com/A_VerVal)
 <hr>
 
-Web Developer in progress ...
+Web Developer 
 -------------
 
 ```javascript
