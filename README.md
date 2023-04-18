@@ -1,29 +1,5 @@
-# console.log('Hello World!! 👋')
-
-=================================
-
-My name is Alejandro Vera Valdés
 
 
-[![Twitter: A_VerVal ](https://img.shields.io/twitter/follow/A_verVal?style=social)](https://twitter.com/A_VerVal)
-<hr>
-
-Web Developer 
--------------
-
-```javascript
-const avv = {
-  name: "Alejandro" | "Avvgit",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
-  hobbies: [Blockchain, DeFi, Cryptocurrencies, NFTs]
-};
-```
-
-
-
-* 🌍  I live in Chile 🇨🇱
-* ✉️  You can contact me at (alejandro.vera@ugm.cl)
 
 ### Skills
 
